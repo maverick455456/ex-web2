@@ -1,0 +1,25 @@
+{
+  "name": "my-nextjs-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "framer-motion": "^10.16.0",
+    "lucide-react": "^0.379.0",
+    "@/components/ui": "latest",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "eslint": "8.56.0"
+  }
+      }
